@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+}
+
+
+.title {
+    margin: 75px 0 0 0;
+}
+
+.props {
+    background-color: #FFF4CF;
+    margin: 20px 100px;
+    color: black;
+    padding: 20px 0;
+    border-radius: 20px;
+}
+
+.submit {
+    margin-bottom: 20px;
+}
+
+.favor {
+    color: green;
+}
+
+.against {
+    color: red
+}
+
+.byline {
+    color: gray;
+}
